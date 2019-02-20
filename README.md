@@ -1,12 +1,16 @@
 
 # Machine Learning
+## Textbooks
+- Introduction to Statistical Learning
+- Elements of Statistical Learning
 
 ## General
 - Probabilistic machine learning and artificial intelligence
 
 
 # Deep Learning
-- Textbook (All Chapters): https://www.deeplearningbook.org/front_matter.pdf
+## Textbooks
+- (All Chapters): https://www.deeplearningbook.org/front_matter.pdf
 
 ## General
 - ImageNet Classification with Deep Convolutional Neural Networks: http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
