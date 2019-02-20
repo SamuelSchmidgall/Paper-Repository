@@ -2,6 +2,7 @@
 # Deep Learning
 - Textbook (All Chapters): https://www.deeplearningbook.org/front_matter.pdf
 
+## General
 - ImageNet Classification with Deep Convolutional Neural Networks: http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
 - Deep Residual Learning for Image Recognition: https://arxiv.org/pdf/1512.03385.pdf
 - Dropout: https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
