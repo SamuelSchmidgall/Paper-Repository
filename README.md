@@ -1,4 +1,10 @@
 
+# Machine Learning
+
+## General
+- Probabilistic machine learning and artificial intelligence
+
+
 # Deep Learning
 - Textbook (All Chapters): https://www.deeplearningbook.org/front_matter.pdf
 
@@ -14,13 +20,17 @@
 ## Spiking Neural Networks:
 - Deep Spiking Neural Networks: https://www.research.manchester.ac.uk/portal/files/66046364/FULL_TEXT.PDF
 - Deep Learning in Spiking Neural Networks: https://arxiv.org/abs/1804.08150
+- Deep Spiking Nets: https://arxiv.org/pdf/1602.08323.pdf
 
 ## Sequential Modeling
 - Gated Feedback Recurrent Neural Networks: https://arxiv.org/pdf/1502.02367v3.pdf
 - Sequence to Sequence Learning with Neural Networks: https://arxiv.org/pdf/1409.3215.pdf
+- PredRNN: https://papers.nips.cc/paper/6689-predrnn-recurrent-neural-networks-for-predictive-learning-using-spatiotemporal-lstms.pdf
+- Generating Sequences With Recurrent Neural Networks: https://arxiv.org/pdf/1308.0850.pdf
+
 
 ## Reinforcement Learning
 - Dueling Network Architectures for Deep Reinforcement Learning: https://arxiv.org/pdf/1511.06581.pdf
 - Playing atari with deep reinforcement learning: https://arxiv.org/pdf/1312.5602.pdf
-
+- Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm: https://arxiv.org/pdf/1712.01815.pdf
 
