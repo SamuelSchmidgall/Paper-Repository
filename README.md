@@ -25,6 +25,7 @@
 - Deep Spiking Neural Networks: https://www.research.manchester.ac.uk/portal/files/66046364/FULL_TEXT.PDF
 - Deep Learning in Spiking Neural Networks: https://arxiv.org/abs/1804.08150
 - Deep Spiking Nets: https://arxiv.org/pdf/1602.08323.pdf
+- Noisy Softplus: https://link.springer.com/chapter/10.1007/978-3-319-46681-1_49
 
 ## Sequential Modeling
 - Gated Feedback Recurrent Neural Networks: https://arxiv.org/pdf/1502.02367v3.pdf
