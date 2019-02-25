@@ -4,10 +4,6 @@
 - Introduction to Statistical Learning
 - Elements of Statistical Learning
 
-## General
-- Probabilistic machine learning and artificial intelligence
-
-
 # Deep Learning
 ## Textbooks
 - (All Chapters): https://www.deeplearningbook.org/front_matter.pdf
@@ -20,6 +16,7 @@
 - Adam: https://arxiv.org/pdf/1412.6980.pdf
 - Generalized Adversarial Nets: http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf
 - Unsupervised Representation Learning With Deep Convolutional GANs: https://arxiv.org/pdf/1511.06434.pdf
+- Neural networks with differentiable structure: https://arxiv.org/abs/1606.06216
 
 ## Spiking Neural Networks:
 - Deep Spiking Neural Networks: https://www.research.manchester.ac.uk/portal/files/66046364/FULL_TEXT.PDF
