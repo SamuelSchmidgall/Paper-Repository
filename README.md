@@ -36,3 +36,10 @@
 - Playing atari with deep reinforcement learning: https://arxiv.org/pdf/1312.5602.pdf
 - Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm: https://arxiv.org/pdf/1712.01815.pdf
 
+
+
+
+
+
+To Read:
+https://arxiv.org/pdf/1602.02830.pdf
