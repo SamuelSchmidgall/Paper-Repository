@@ -35,6 +35,7 @@
 - Dueling Network Architectures for Deep Reinforcement Learning: https://arxiv.org/pdf/1511.06581.pdf
 - Playing atari with deep reinforcement learning: https://arxiv.org/pdf/1312.5602.pdf
 - Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm: https://arxiv.org/pdf/1712.01815.pdf
+- Human-level control through deep reinforcement learning: https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf
 
 
 
