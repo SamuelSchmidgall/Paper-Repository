@@ -17,6 +17,7 @@
 - Generalized Adversarial Nets: http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf
 - Unsupervised Representation Learning With Deep Convolutional GANs: https://arxiv.org/pdf/1511.06434.pdf
 - Neural networks with differentiable structure: https://arxiv.org/abs/1606.06216
+- Differentiable plasticity- training plastic neural networks with backpropagation: https://arxiv.org/pdf/1804.02464.pdf
 
 ## Spiking Neural Networks:
 - Deep Spiking Neural Networks: https://www.research.manchester.ac.uk/portal/files/66046364/FULL_TEXT.PDF
