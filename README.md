@@ -34,6 +34,7 @@
 
 
 ## Reinforcement Learning
+- ** https://arxiv.org/pdf/1708.05866.pdf **
 - Dueling Network Architectures for Deep Reinforcement Learning: https://arxiv.org/pdf/1511.06581.pdf
 - Playing atari with deep reinforcement learning: https://arxiv.org/pdf/1312.5602.pdf
 - Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm: https://arxiv.org/pdf/1712.01815.pdf
@@ -44,8 +45,4 @@
 - Sim-to-Real: Learning Agile Locomotion For Quadruped Robots https://arxiv.org/abs/1804.10332
 
 
-
-
-
-To Read:
-https://arxiv.org/pdf/1602.02830.pdf
+** [] ** -> Highly Recommended Paper regardless of interest
