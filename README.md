@@ -19,6 +19,7 @@
 - Neural networks with differentiable structure: https://arxiv.org/abs/1606.06216
 - Differentiable plasticity- training plastic neural networks with backpropagation: https://arxiv.org/pdf/1804.02464.pdf
 - Learning to learn with backpropagation of Hebbian plasticity: https://arxiv.org/abs/1609.02228
+- Topology of Learning in Artificial Neural Networks: https://arxiv.org/pdf/1902.08160v1.pdf
 
 ## Spiking Neural Networks:
 - Deep Spiking Neural Networks: https://www.research.manchester.ac.uk/portal/files/66046364/FULL_TEXT.PDF
