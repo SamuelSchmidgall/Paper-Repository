@@ -35,6 +35,7 @@
 - Proximal Policy Optimization Algorithms: https://arxiv.org/abs/1707.06347
 - Trust Region Policy Optimization https://arxiv.org/abs/1502.05477
 - Sim-to-Real: Learning Agile Locomotion For Quadruped Robots: https://arxiv.org/abs/1804.10332
+- Soft Actor-Critic: https://arxiv.org/pdf/1801.01290.pdf
 
 ## To Read
 - Deep Reinforcement Learning with Feedback-based Exploration https://arxiv.org/abs/1903.06151v1
