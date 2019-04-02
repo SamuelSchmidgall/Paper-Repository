@@ -36,5 +36,10 @@
 - Trust Region Policy Optimization https://arxiv.org/abs/1502.05477
 - Sim-to-Real: Learning Agile Locomotion For Quadruped Robots: https://arxiv.org/abs/1804.10332
 
+## To Read
+- Deep Reinforcement Learning with Feedback-based Exploration https://arxiv.org/abs/1903.06151v1
 
-** [] ** = Highly Recommended Paper regardless of interest
+
+** x ** = Highly Recommended Paper regardless of interest
+
+
