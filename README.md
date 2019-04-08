@@ -34,8 +34,11 @@
 - Emergence of Locomotion Behaviours in Rich Environments: https://arxiv.org/abs/1707.02286
 - Proximal Policy Optimization Algorithms: https://arxiv.org/abs/1707.06347
 - Trust Region Policy Optimization https://arxiv.org/abs/1502.05477
+    * An objective function was proposed that [penalizes] moving away (gradient-wise) from the original distribution.
 - Sim-to-Real: Learning Agile Locomotion For Quadruped Robots: https://arxiv.org/abs/1804.10332
 - Soft Actor-Critic: https://arxiv.org/pdf/1801.01290.pdf
+- Exploration by Random Network Distilations: https://arxiv.org/pdf/1810.12894.pdf
+- Deep Recurrent Q-Learning for Partially Observable MDPs: https://arxiv.org/pdf/1507.06527.pdf (Personal Favorite)
 
 ## To Read
 - Deep Reinforcement Learning with Feedback-based Exploration https://arxiv.org/abs/1903.06151v1
