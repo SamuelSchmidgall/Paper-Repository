@@ -40,10 +40,12 @@
 - Exploration by Random Network Distilations: https://arxiv.org/pdf/1810.12894.pdf
 - Deep Recurrent Q-Learning for Partially Observable MDPs: https://arxiv.org/pdf/1507.06527.pdf (Personal Favorite)
 
-## To Read
-- Deep Reinforcement Learning with Feedback-based Exploration https://arxiv.org/abs/1903.06151v1
 
 
-** x ** = Highly Recommended Paper regardless of interest
+## Continual Learning
+- On the role of neurogenesis in overcoming catastrophic forgetting: https://marcpickett.com/cl2018/CL-2018_paper_31.pdf
+
+
+
 
 
