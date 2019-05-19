@@ -44,7 +44,7 @@
 
 ## Continual Learning
 - On the role of neurogenesis in overcoming catastrophic forgetting: https://marcpickett.com/cl2018/CL-2018_paper_31.pdf
-
+- Continual Learning with Deep Generative Replay: https://papers.nips.cc/paper/6892-continual-learning-with-deep-generative-replay.pdf
 
 
 
