@@ -24,6 +24,9 @@
 - PredRNN: https://papers.nips.cc/paper/6689-predrnn-recurrent-neural-networks-for-predictive-learning-using-spatiotemporal-lstms.pdf
 - Generating Sequences With Recurrent Neural Networks: https://arxiv.org/pdf/1308.0850.pdf
 
+## Generative
+- Generative Adversarial Networks: https://arxiv.org/abs/1406.2661
+- SeqGAN: https://arxiv.org/pdf/1609.05473.pdf
 
 ## Reinforcement Learning
 - ** A Brief Survey of Deep Reinforcement Learning: https://arxiv.org/pdf/1708.05866.pdf **
