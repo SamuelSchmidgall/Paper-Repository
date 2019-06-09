@@ -10,6 +10,10 @@
 - Neural networks with differentiable structure: https://arxiv.org/abs/1606.06216
 - Differentiable plasticity- training plastic neural networks with backpropagation: https://arxiv.org/pdf/1804.02464.pdf
 - Learning to learn with backpropagation of Hebbian plasticity: https://arxiv.org/abs/1609.02228
+
+## Theory
+- The Effect of Network Width on Stochastic Gradient Descent
+and Generalization: an Empirical Study: https://arxiv.org/pdf/1905.03776v1.pdf
 - Topology of Learning in Artificial Neural Networks: https://arxiv.org/pdf/1902.08160v1.pdf
 
 ## Spiking Neural Networks:
@@ -42,8 +46,6 @@
 - Soft Actor-Critic: https://arxiv.org/pdf/1801.01290.pdf
 - Exploration by Random Network Distilations: https://arxiv.org/pdf/1810.12894.pdf
 - Deep Recurrent Q-Learning for Partially Observable MDPs: https://arxiv.org/pdf/1507.06527.pdf (Personal Favorite)
-
-
 
 ## Continual Learning
 - On the role of neurogenesis in overcoming catastrophic forgetting: https://marcpickett.com/cl2018/CL-2018_paper_31.pdf
