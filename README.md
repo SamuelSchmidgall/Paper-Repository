@@ -46,6 +46,7 @@ and Generalization: an Empirical Study: https://arxiv.org/pdf/1905.03776v1.pdf
 - Soft Actor-Critic: https://arxiv.org/pdf/1801.01290.pdf
 - Exploration by Random Network Distilations: https://arxiv.org/pdf/1810.12894.pdf
 - Deep Recurrent Q-Learning for Partially Observable MDPs: https://arxiv.org/pdf/1507.06527.pdf (Personal Favorite)
+- Challenges of Real-World Reinforcement Learning: https://openreview.net/pdf?id=S1xtR52NjN
 
 ## Continual Learning
 - On the role of neurogenesis in overcoming catastrophic forgetting: https://marcpickett.com/cl2018/CL-2018_paper_31.pdf
