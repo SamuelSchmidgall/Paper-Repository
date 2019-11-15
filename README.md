@@ -1,3 +1,5 @@
+## Papers from my 2019 Summer Internship
+
 # Deep Learning
 ## General
 - ImageNet Classification with Deep Convolutional Neural Networks: http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
@@ -54,5 +56,21 @@ and Generalization: an Empirical Study: https://arxiv.org/pdf/1905.03776v1.pdf
 - Continual Learning with Deep Generative Replay: https://papers.nips.cc/paper/6892-continual-learning-with-deep-generative-replay.pdf
 
 
+## Papers from my Fall 2019 Independent Study:
+Robust Recovery Controller for a Quadrupedal Robot using Deep Reinforcement Learning: https://arxiv.org/pdf/1901.07517.pdf
 
+Where Should I Walk? Predicting Terrain Properties from Images via Self-Supervised Learning: http://n.ethz.ch/~cesarc/files/RAL2019_lwellhausen.pdf
 
+Stabilizing Task-based Omnidirectional Quadruped Locomotion with Virtual Model Control https://www.nrl.navy.mil/itd/aic/sites/www.nrl.navy.mil.itd.aic/files/pdfs/MERLIN_conf_ICRA_2015_final_v3.1.pdf
+
+Hierarchical Reinforcement Learning for Quadruped Locomotion https://arxiv.org/pdf/1905.08926.pdf
+
+WHY DOES HIERARCHY (SOMETIMES) WORK SO WELL IN REINFORCEMENT LEARNING? https://arxiv.org/pdf/1909.10618v1.pdf
+
+Policies Modulating Trajectory Generators http://proceedings.mlr.press/v87/iscen18a/iscen18a.pdf
+
+Learning Agile and Dynamic Motor Skills for Legged Robots: https://arxiv.org/abs/1901.08652
+
+Random network distillation: https://arxiv.org/abs/1810.12894
+
+LEARNING LOCOMOTION SKILLS USING DEEPRL: DOES THE CHOICE OF ACTION SPACE MATTER? https://arxiv.org/pdf/1611.01055.pdf
