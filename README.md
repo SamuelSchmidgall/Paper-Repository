@@ -1,5 +1,12 @@
-## Papers from my 2019 Summer Internship
+## 2020 
+\[The year of Evolution\]
 
+- Meta-Learning through Hebbian Plasticity in Random Networks: https://arxiv.org/abs/2007.02686 (One of my favorite papers ever)
+- The Road to Everywhere: Evolution, Complexity and Progress in Natural and Artificial Systems : https://etheses.bham.ac.uk//id/eprint/148/1/Miconi08PhD.pdf
+- ES Is More Than Just a Traditional Finite-Difference Approximator: https://arxiv.org/pdf/1712.06568.pdf
+- A distributional code for value in dopamine-based reinforcement learning: https://deepmind.com/research/publications/A-distributional-code-for-value-in-dopamine-based-reinforcement-learning
+
+## 2019
 # Deep Learning
 ## General
 - ImageNet Classification with Deep Convolutional Neural Networks: http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
