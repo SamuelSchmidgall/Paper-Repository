@@ -1,5 +1,5 @@
 ## 2020 
-\[The year of Evolution\]
+### \[The year of Evolution\]
 
 - Meta-Learning through Hebbian Plasticity in Random Networks: https://arxiv.org/abs/2007.02686 (One of my favorite papers ever)
 - The Road to Everywhere: Evolution, Complexity and Progress in Natural and Artificial Systems : https://etheses.bham.ac.uk//id/eprint/148/1/Miconi08PhD.pdf
@@ -10,7 +10,6 @@
 - Evolving to learn: discovering interpretable plasticity rules for spiking networks https://arxiv.org/pdf/2005.14149.pdf
 - Eligibility Traces and Plasticity on Behavioral Time Scales https://www.frontiersin.org/articles/10.3389/fncir.2018.00053/full
 - A solution to the learning dilemma for recurrent networks of spiking neurons https://www.nature.com/articles/s41467-020-17236-y
-
 - A distributional code for value in dopamine-based reinforcement learning: https://deepmind.com/research/publications/A-distributional-code-for-value-in-dopamine-based-reinforcement-learning
 
 ## 2019
