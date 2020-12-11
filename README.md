@@ -1,4 +1,4 @@
-## 2020 
+# 2020 
 ### \[The year of Evolution\]
 
 - Meta-Learning through Hebbian Plasticity in Random Networks: https://arxiv.org/abs/2007.02686 (One of my favorite papers ever)
@@ -12,8 +12,7 @@
 - A solution to the learning dilemma for recurrent networks of spiking neurons https://www.nature.com/articles/s41467-020-17236-y
 - A distributional code for value in dopamine-based reinforcement learning: https://deepmind.com/research/publications/A-distributional-code-for-value-in-dopamine-based-reinforcement-learning
 
-## 2019
-# Deep Learning
+# 2019
 ## General
 - ImageNet Classification with Deep Convolutional Neural Networks: http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
 - Deep Residual Learning for Image Recognition: https://arxiv.org/pdf/1512.03385.pdf
