@@ -11,6 +11,7 @@
 - Eligibility Traces and Plasticity on Behavioral Time Scales https://www.frontiersin.org/articles/10.3389/fncir.2018.00053/full
 - A solution to the learning dilemma for recurrent networks of spiking neurons https://www.nature.com/articles/s41467-020-17236-y
 - A distributional code for value in dopamine-based reinforcement learning: https://deepmind.com/research/publications/A-distributional-code-for-value-in-dopamine-based-reinforcement-learning
+- Learning with Plasticity Rules: Generalization and Robustness https://openreview.net/pdf?id=XEyElxd9zji
 
 # 2019
 ## General
