@@ -12,6 +12,11 @@
 - A solution to the learning dilemma for recurrent networks of spiking neurons https://www.nature.com/articles/s41467-020-17236-y
 - A distributional code for value in dopamine-based reinforcement learning: https://deepmind.com/research/publications/A-distributional-code-for-value-in-dopamine-based-reinforcement-learning
 - Learning with Plasticity Rules: Generalization and Robustness https://openreview.net/pdf?id=XEyElxd9zji
+- Born to Learn: the Inspiration, Progress, and Future of Evolved Plastic Artificial Neural Networks https://arxiv.org/abs/1703.10371
+- AI-GAs: AI-generating algorithms, an alternate paradigm for producing general artificial intelligence https://arxiv.org/pdf/1905.10985.pdf
+- Efficient Reinforcement Learning through Evolving Neural Network Topologies http://nn.cs.utexas.edu/downloads/papers/stanley.gecco02_1.pdf
+- https://eplex.cs.ucf.edu/papers/risi_alife12.pdf An Enhanced Hypercube-Based Encoding for Evolving the Placement, Density and Connectivity of Neurons
+
 
 # 2019
 ## General
