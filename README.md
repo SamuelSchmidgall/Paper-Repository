@@ -4,7 +4,7 @@
 - Meta-Learning through Hebbian Plasticity in Random Networks: https://arxiv.org/abs/2007.02686 (One of my favorite papers ever)
 - The Road to Everywhere: Evolution, Complexity and Progress in Natural and Artificial Systems : https://etheses.bham.ac.uk//id/eprint/148/1/Miconi08PhD.pdf
 - ES Is More Than Just a Traditional Finite-Difference Approximator: https://arxiv.org/pdf/1712.06568.pdf
-- Deep Neuroevolution: Genetic Algorithms are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning :https://arxiv.org/pdf/1712.06567.pdf
+- Deep Neuroevolution: Genetic Algorithms are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning https://arxiv.org/pdf/1712.06567.pdf
 - The Evolution of Learning: An Experiment in Genetic Connectionism: http://consc.net/papers/evolution.pdf
 - Evolution Strategies as a Scalable Alternative to Reinforcement Learning: https://arxiv.org/pdf/1703.03864.pdf
 - Evolving to learn: discovering interpretable plasticity rules for spiking networks https://arxiv.org/pdf/2005.14149.pdf
@@ -16,9 +16,11 @@
 - AI-GAs: AI-generating algorithms, an alternate paradigm for producing general artificial intelligence https://arxiv.org/pdf/1905.10985.pdf
 - Efficient Reinforcement Learning through Evolving Neural Network Topologies http://nn.cs.utexas.edu/downloads/papers/stanley.gecco02_1.pdf
 - https://eplex.cs.ucf.edu/papers/risi_alife12.pdf An Enhanced Hypercube-Based Encoding for Evolving the Placement, Density and Connectivity of Neurons
+- How Learning Can Guide Evolution https://content.wolfram.com/uploads/sites/13/2018/02/01-3-6.pdf
 
 
 # 2019
+### \[The year of RL and Theory\]
 ## General
 - ImageNet Classification with Deep Convolutional Neural Networks: http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
 - Deep Residual Learning for Image Recognition: https://arxiv.org/pdf/1512.03385.pdf
