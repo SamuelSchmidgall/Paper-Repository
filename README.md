@@ -1,7 +1,7 @@
-Here is a list of papers that were influential in my research development based on each year.
+Here is a list of papers that were influential in my research development based on each year. Not a comprehensive list, just some that I really liked.
 
 # 2020 
-### \[The year of Evolution\]
+### \[The year of Evolution, Philosophy, and Biology\]
 **Paper of the Year**: AI-GAs: AI-generating algorithms, an alternate paradigm for producing general artificial intelligence https://arxiv.org/pdf/1905.10985.pdf
 
 - Meta-Learning through Hebbian Plasticity in Random Networks: https://arxiv.org/abs/2007.02686 (One of my favorite papers ever)
@@ -31,6 +31,14 @@ Here is a list of papers that were influential in my research development based 
 - Driven by Compression Progress: A Simple Principle Explains Essential Aspects ... https://arxiv.org/abs/0812.4360
 - The Body is Not a Given: Joint Agent Policy Learning and Morphology Evolution https://openreview.net/forum?id=BJgWl3A5YX
 - Learning to Control Self-Assembling Morphologies: A Study of Generalization via Modularity https://arxiv.org/pdf/1902.05546.pdf
+- Indirectly Encoding Neural Plasticity as a Pattern of Local Rules https://eplex.cs.ucf.edu/papers/risi_sab10.pdf
+- Deep Reinforcement Learning with Population-Coded Spiking Neural Network for Continuous Control https://arxiv.org/abs/2010.09635
+- Strong inhibitory signaling underlies stable temporal dynamics and working memory in spiking neural networks https://www.nature.com/articles/s41593-020-00753-w
+- SLAYER: Spike Layer Error Reassignment in Time https://arxiv.org/abs/1810.08646
+- Deep Learning With Spiking Neurons: Opportunities and Challenges https://www.frontiersin.org/articles/10.3389/fnins.2018.00774/full
+- An Astrocyte-Modulated Neuromorphic Central Pattern Generator for Hexapod Robot Locomotion on Intel’s Loihi https://arxiv.org/pdf/2006.04765.pdf
+- Networks of Spiking Neurons: The Third Generation of Neural Network Models https://igi-web.tugraz.at/people/maass/psfiles/85a.pdf
+- Eligibility traces provide a data-inspired alternative to backpropagation through time https://openreview.net/pdf?id=SkxJ4QKIIS
 
 
 # 2019
@@ -86,3 +94,12 @@ and Generalization: an Empirical Study: https://arxiv.org/pdf/1905.03776v1.pdf
 - Learning Agile and Dynamic Motor Skills for Legged Robots: https://arxiv.org/abs/1901.08652
 - Random network distillation: https://arxiv.org/abs/1810.12894
 - LEARNING LOCOMOTION SKILLS USING DEEPRL: DOES THE CHOICE OF ACTION SPACE MATTER? https://arxiv.org/pdf/1611.01055.pdf
+- Evolution Strategies as a Scalable Alternative to Reinforcement Learning https://arxiv.org/pdf/1703.03864.pdf
+
+
+
+<ins>End of 2020 Retrospective for 2019</ins>:
+
+During this year I was just beginning to show an interest in the more historical papers that the trending SOTA ML papers were building off of, while also for the first time developing a specialized interest in reinforcement learning and biologically inspired techniques. I think I was in the headspace of gradient supremecy that I think many beginning ML researchers find themselves in, not really exploring much outside of the mainstream umbrella. In 2020 I began working with spiking neural networks, which really opened my eyes to how narrow-sighted the NeurIPS/ICML/ICLR workspace is, and catapulted me toward learning a much larger variety of inspired techniques from evolutionary methods, STDP/plasticity methods, genetic programming, etc in 2020. I do think having a baseline understanding of the traditional gradient method papers is valuable, however I would encourage others to really delve into other sectors of the ML field for inspiration. Otherwise, I also worked closely with two talented advisors of vastly different mindsets; both from a robotics background interested in reinforcement learning. I think one of the central cultural shifts in the field will have to be shifting toward less usage of gradient methods since those methods focus to optimize the performance of a single agent, and hence generally lead to a much brittler performing agent which obviously wouldn't generalize well to the real world except on few tasks. Perhaps population-based gradient methods, or evolutionary methods, which optimize reward for a population surrouning a parameter vector, would perform much better since the parameter perturbation robustness would in theory also lead to less sensitivity to input and output noise. I think the community also has a long way to go in terms of the acceptance of evolutionary and genetic algorithm optimization. It was a shame to see both two of the most impactful papers of the year in genetic and evolutionary computing being rejected from mainstream conferences by Salimans and Clune. Interested to see how I think about all of this next year!
+
+
