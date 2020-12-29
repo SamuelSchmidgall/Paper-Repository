@@ -17,14 +17,20 @@ Here is a list of papers that were influential in my research development based 
 - Learning with Plasticity Rules: Generalization and Robustness https://openreview.net/pdf?id=XEyElxd9zji
 - Born to Learn: the Inspiration, Progress, and Future of Evolved Plastic Artificial Neural Networks https://arxiv.org/abs/1703.10371
 - Efficient Reinforcement Learning through Evolving Neural Network Topologies http://nn.cs.utexas.edu/downloads/papers/stanley.gecco02_1.pdf
-- https://eplex.cs.ucf.edu/papers/risi_alife12.pdf An Enhanced Hypercube-Based Encoding for Evolving the Placement, Density and Connectivity of Neurons
+- An Enhanced Hypercube-Based Encoding for Evolving the Placement, Density and Connectivity of Neurons https://eplex.cs.ucf.edu/papers/risi_alife12.pdf 
 - How Learning Can Guide Evolution https://content.wolfram.com/uploads/sites/13/2018/02/01-3-6.pdf
 - Hypernetworks https://arxiv.org/pdf/1609.09106.pdf
--A critique of pure learning and what artificial neural networks can learn from animal brains https://www.nature.com/articles/s41467-019-11786-6
+- A critique of pure learning and what artificial neural networks can learn from animal brains https://www.nature.com/articles/s41467-019-11786-6
 - Testing the Genomic Bottleneck Hypothesis in Hebbian Meta-Learning https://arxiv.org/pdf/2011.06811.pdf
 - IMPROVING DEEP NEUROEVOLUTION VIA DEEP INNOVATION PROTECTION https://arxiv.org/pdf/2001.01683.pdf
 - Compositional Pattern Producing Networks: A Novel Abstraction of Development https://eplex.cs.ucf.edu/papers/stanley_gpem07.pdf
 - On the Relationships between Generative Encodings, Regularity, and Learning Abilities when Evolving Plastic Artificial Neural Networks https://pubmed.ncbi.nlm.nih.gov/24236099/
+- Network of evolvable neural units can learn synaptic learning rules and spiking dynamics https://www.nature.com/articles/s42256-020-00267-x
+- Neuroevolution of Self-Interpretable Agents https://attentionagent.github.io/
+- Recurrent World Models Facilitate Policy Evolution https://papers.nips.cc/paper/2018/file/2de5d16682c3c35007e4e92982f1a2ba-Paper.pdf
+- Driven by Compression Progress: A Simple Principle Explains Essential Aspects ... https://arxiv.org/abs/0812.4360
+- The Body is Not a Given: Joint Agent Policy Learning and Morphology Evolution https://openreview.net/forum?id=BJgWl3A5YX
+- Learning to Control Self-Assembling Morphologies: A Study of Generalization via Modularity https://arxiv.org/pdf/1902.05546.pdf
 
 
 # 2019
