@@ -40,8 +40,7 @@ Here is a list of papers that were influential in my research development based 
 - An Astrocyte-Modulated Neuromorphic Central Pattern Generator for Hexapod Robot Locomotion on Intel’s Loihi https://arxiv.org/pdf/2006.04765.pdf
 - Networks of Spiking Neurons: The Third Generation of Neural Network Models https://igi-web.tugraz.at/people/maass/psfiles/85a.pdf
 - Eligibility traces provide a data-inspired alternative to backpropagation through time https://openreview.net/pdf?id=SkxJ4QKIIS
-
-Brain-Like Object Recognition with High-Performing Shallow Recurrent ANNs https://papers.nips.cc/paper/9441-brain-like-object-recognition-with-high-performing-shallow-recurrent-anns
+- Brain-Like Object Recognition with High-Performing Shallow Recurrent ANNs https://papers.nips.cc/paper/9441-brain-like-object-recognition-with-high-performing-shallow-recurrent-anns
 - Learning Task-Driven Control Policies via Information Bottlenecks https://arxiv.org/pdf/2002.01428v1.pdf
 - Learning to Learn with Feedback and Local Plasticity https://openreview.net/pdf?id=HklfNQFL8H
 - Structured and Deep Similarity Matching via Structured and Deep Hebbian Networks http://papers.nips.cc/paper/9674-structured-and-deep-similarity-matching-via-structured-and-deep-hebbian-networks.pdf
