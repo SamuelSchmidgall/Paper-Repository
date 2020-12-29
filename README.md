@@ -2,6 +2,7 @@ Here is a list of papers that were influential in my research development based 
 
 # 2020 
 ### \[The year of Evolution\]
+**Paper of the Year**: AI-GAs: AI-generating algorithms, an alternate paradigm for producing general artificial intelligence https://arxiv.org/pdf/1905.10985.pdf
 
 - Meta-Learning through Hebbian Plasticity in Random Networks: https://arxiv.org/abs/2007.02686 (One of my favorite papers ever)
 - The Road to Everywhere: Evolution, Complexity and Progress in Natural and Artificial Systems : https://etheses.bham.ac.uk//id/eprint/148/1/Miconi08PhD.pdf
@@ -15,14 +16,21 @@ Here is a list of papers that were influential in my research development based 
 - A distributional code for value in dopamine-based reinforcement learning: https://deepmind.com/research/publications/A-distributional-code-for-value-in-dopamine-based-reinforcement-learning
 - Learning with Plasticity Rules: Generalization and Robustness https://openreview.net/pdf?id=XEyElxd9zji
 - Born to Learn: the Inspiration, Progress, and Future of Evolved Plastic Artificial Neural Networks https://arxiv.org/abs/1703.10371
-- AI-GAs: AI-generating algorithms, an alternate paradigm for producing general artificial intelligence https://arxiv.org/pdf/1905.10985.pdf
 - Efficient Reinforcement Learning through Evolving Neural Network Topologies http://nn.cs.utexas.edu/downloads/papers/stanley.gecco02_1.pdf
 - https://eplex.cs.ucf.edu/papers/risi_alife12.pdf An Enhanced Hypercube-Based Encoding for Evolving the Placement, Density and Connectivity of Neurons
 - How Learning Can Guide Evolution https://content.wolfram.com/uploads/sites/13/2018/02/01-3-6.pdf
+- Hypernetworks https://arxiv.org/pdf/1609.09106.pdf
+-A critique of pure learning and what artificial neural networks can learn from animal brains https://www.nature.com/articles/s41467-019-11786-6
+- Testing the Genomic Bottleneck Hypothesis in Hebbian Meta-Learning https://arxiv.org/pdf/2011.06811.pdf
+- IMPROVING DEEP NEUROEVOLUTION VIA DEEP INNOVATION PROTECTION https://arxiv.org/pdf/2001.01683.pdf
+- Compositional Pattern Producing Networks: A Novel Abstraction of Development https://eplex.cs.ucf.edu/papers/stanley_gpem07.pdf
+- On the Relationships between Generative Encodings, Regularity, and Learning Abilities when Evolving Plastic Artificial Neural Networks https://pubmed.ncbi.nlm.nih.gov/24236099/
 
 
 # 2019
 ### \[The year of RL and Theory\]
+**Paper of the Year**: Backpropamine: training self-modifying neural networks with differentiable neuromodulated plasticity: https://arxiv.org/abs/2002.10585
+
 - ImageNet Classification with Deep Convolutional Neural Networks: http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
 - Deep Residual Learning for Image Recognition: https://arxiv.org/pdf/1512.03385.pdf
 - Dropout: https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
