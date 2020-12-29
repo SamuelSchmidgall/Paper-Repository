@@ -4,6 +4,7 @@ Here is a list of papers that were influential in my research development based 
 ### \[The year of Evolution, Philosophy, and Biology\]
 **Paper of the Year**: AI-GAs: AI-generating algorithms, an alternate paradigm for producing general artificial intelligence https://arxiv.org/pdf/1905.10985.pdf
 
+### Mid/Late 2020
 - Meta-Learning through Hebbian Plasticity in Random Networks: https://arxiv.org/abs/2007.02686 (One of my favorite papers ever)
 - The Road to Everywhere: Evolution, Complexity and Progress in Natural and Artificial Systems : https://etheses.bham.ac.uk//id/eprint/148/1/Miconi08PhD.pdf
 - ES Is More Than Just a Traditional Finite-Difference Approximator: https://arxiv.org/pdf/1712.06568.pdf
@@ -39,6 +40,34 @@ Here is a list of papers that were influential in my research development based 
 - An Astrocyte-Modulated Neuromorphic Central Pattern Generator for Hexapod Robot Locomotion on Intel’s Loihi https://arxiv.org/pdf/2006.04765.pdf
 - Networks of Spiking Neurons: The Third Generation of Neural Network Models https://igi-web.tugraz.at/people/maass/psfiles/85a.pdf
 - Eligibility traces provide a data-inspired alternative to backpropagation through time https://openreview.net/pdf?id=SkxJ4QKIIS
+
+Brain-Like Object Recognition with High-Performing Shallow Recurrent ANNs https://papers.nips.cc/paper/9441-brain-like-object-recognition-with-high-performing-shallow-recurrent-anns
+- Learning Task-Driven Control Policies via Information Bottlenecks https://arxiv.org/pdf/2002.01428v1.pdf
+- Learning to Learn with Feedback and Local Plasticity https://openreview.net/pdf?id=HklfNQFL8H
+- Structured and Deep Similarity Matching via Structured and Deep Hebbian Networks http://papers.nips.cc/paper/9674-structured-and-deep-similarity-matching-via-structured-and-deep-hebbian-networks.pdf
+- Assessing the scalability of biologically-motivated deep learning algorithms
+and architectures https://papers.nips.cc/paper/8148-assessing-the-scalability-of-biologically-motivated-deep-learning-algorithms-and-architectures.pdf
+- A mesoscale connectome of the mouse brain https://www.nature.com/articles/nature13186
+- Neocortical layer 6, a review https://www.frontiersin.org/articles/10.3389/fnana.2010.00013/full
+- Brain-Like Object Recognition with High-Performing Shallow Recurrent ANNs https://papers.nips.cc/paper/9441-brain-like-object-recognition-with-high-performing-shallow-recurrent-anns
+- How well do deep neural networks trained on object recognition characterize the mouse visual system? https://openreview.net/pdf?id=rkxcXmtUUS
+- Performance-optimized hierarchical models predict neural responses in higher visual cortex https://www.pnas.org/content/111/23/8619
+- Neural Map: Structured Memory for Deep Reinforcement Learning https://openreview.net/pdf?id=Bk9zbyZCZ
+- Cognitive Mapping and Planning for Visual Navigation http://openaccess.thecvf.com/content_cvpr_2017/papers/Gupta_Cognitive_Mapping_and_CVPR_2017_paper.pdf
+- Significance of feedforward architectural differences between the ventral visual stream and DenseNet https://openreview.net/pdf?id=SkegNmFUIS
+- How well do deep neural networks trained on object recognition characterize the mouse visual system? https://openreview.net/pdf?id=rkxcXmtUUS
+- Neural networks grown and self-organized by noise http://papers.nips.cc/paper/by-source-2019-1100
+- Densely connected convolutional networks https://arxiv.org/pdf/1608.06993.pdf
+- Surround Modulation: A Bio-inspired Connectivity Structure for Convolutional Neural Networks http://papers.nips.cc/paper/9719-surround-modulation-a-bio-inspired-connectivity-structure-for-convolutional-neural-networks.pdf
+- A neural network model of flexible grasp movement generation https://www.biorxiv.org/content/10.1101/742189v1.full.pdf
+- Deep Neural Networks and Visual Processing in the Rat https://www.researchgate.net/publication/326547016
+- BioLSTMs https://papers.nips.cc/paper/6631-cortical-microcircuits-as-gated-recurrent-neural-networks.pdf
+- Neuron densities of mouse brain https://www.frontiersin.org/articles/10.3389/fnana.2018.00083/full
+- Hierarchical Visuomotor Control of Humanoids https://arxiv.org/pdf/1811.09656v1.pdf
+- Deep Neuroethology of a Virtual Rodent https://arxiv.org/pdf/1911.09451.pdf
+- Hierarchical RL Using an Ensemble of Proprioceptive Periodic Policies https://openreview.net/pdf?id=SJz1x20cFQ
+- Learning Multi-level Hierarchies with Hindsight https://arxiv.org/pdf/1712.00948.pdf
+- Sub-Policy Adaptation for Hierarchical Reinforcement Learning https://openreview.net/pdf?id=ByeWogStDS
 
 
 # 2019
