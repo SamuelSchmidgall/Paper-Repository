@@ -1,5 +1,12 @@
 Here is a list of papers that were influential in my research development based on each year. Not a comprehensive list, just some that I really liked.
 
+# 2021 
+
+- The past, present, and future of artificial life: https://www.frontiersin.org/articles/10.3389/frobt.2014.00008/full
+- Complex Adaptations and the Evolution of Evolvability: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.28.1524&rep=rep1&type=pdf
+- How evolution learns to generalise: Using the principles of learning theory to understand the evolution of developmental organisation: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005358 
+
+
 # 2020 
 ### \[The year of Evolution, Philosophy, and Biology\]
 **Paper of the Year**: AI-GAs: AI-generating algorithms, an alternate paradigm for producing general artificial intelligence https://arxiv.org/pdf/1905.10985.pdf
