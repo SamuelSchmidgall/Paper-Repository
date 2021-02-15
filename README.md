@@ -2,6 +2,7 @@ Here is a list of papers that were influential in my research development based 
 
 # 2021 
 
+- Artificial Neurogenesis: An Introduction and Selective Review: https://hal.archives-ouvertes.fr/hal-01351738/document
 - The past, present, and future of artificial life: https://www.frontiersin.org/articles/10.3389/frobt.2014.00008/full
 - Complex Adaptations and the Evolution of Evolvability: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.28.1524&rep=rep1&type=pdf
 - How evolution learns to generalise: Using the principles of learning theory to understand the evolution of developmental organisation: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005358 
