@@ -2,6 +2,7 @@ Here is a list of papers that were influential in my research development based 
 
 # 2021 
 
+- Evolving the Behavior of Machines: From Micro to Macroevolution: https://www.sciencedirect.com/science/article/pii/S2589004220309287
 - Scalable training of artificial neural networks with adaptive sparse connectivity inspired by network science https://www.nature.com/articles/s41467-018-04316-3?fbclid=IwAR2Q-t4B23NCAjiM8y1ehyAV5cgP_NPMG6zo-8YDLR9OLQMu1TzW_AyIyvQ
 - Artificial Neurogenesis: An Introduction and Selective Review: https://hal.archives-ouvertes.fr/hal-01351738/document
 - The past, present, and future of artificial life: https://www.frontiersin.org/articles/10.3389/frobt.2014.00008/full
