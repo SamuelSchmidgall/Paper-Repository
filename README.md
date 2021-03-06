@@ -14,6 +14,7 @@ Here is a list of papers that were influential in my research development based 
 ### \[The year of Evolution, Philosophy, and Biology\]
 **Paper of the Year**: AI-GAs: AI-generating algorithms, an alternate paradigm for producing general artificial intelligence https://arxiv.org/pdf/1905.10985.pdf
 
+- Evolving Reinforcement Learning Algorithms: https://openreview.net/pdf?id=0XXpJ4OtjW
 - Weight Agnostic Neural Networks https://arxiv.org/pdf/1906.04358.pdf
 - Meta-Learning through Hebbian Plasticity in Random Networks: https://arxiv.org/abs/2007.02686 (One of my favorite papers ever)
 - The Road to Everywhere: Evolution, Complexity and Progress in Natural and Artificial Systems : https://etheses.bham.ac.uk//id/eprint/148/1/Miconi08PhD.pdf
