@@ -2,6 +2,7 @@ Here is a list of papers that were influential in my research development based 
 
 # 2021 
 
+- Evolving Reinforcement Learning Algorithms: https://openreview.net/pdf?id=0XXpJ4OtjW
 - Evolving the Behavior of Machines: From Micro to Macroevolution: https://www.sciencedirect.com/science/article/pii/S2589004220309287
 - Scalable training of artificial neural networks with adaptive sparse connectivity inspired by network science https://www.nature.com/articles/s41467-018-04316-3?fbclid=IwAR2Q-t4B23NCAjiM8y1ehyAV5cgP_NPMG6zo-8YDLR9OLQMu1TzW_AyIyvQ
 - Artificial Neurogenesis: An Introduction and Selective Review: https://hal.archives-ouvertes.fr/hal-01351738/document
@@ -14,7 +15,6 @@ Here is a list of papers that were influential in my research development based 
 ### \[The year of Evolution, Philosophy, and Biology\]
 **Paper of the Year**: AI-GAs: AI-generating algorithms, an alternate paradigm for producing general artificial intelligence https://arxiv.org/pdf/1905.10985.pdf
 
-- Evolving Reinforcement Learning Algorithms: https://openreview.net/pdf?id=0XXpJ4OtjW
 - Weight Agnostic Neural Networks https://arxiv.org/pdf/1906.04358.pdf
 - Meta-Learning through Hebbian Plasticity in Random Networks: https://arxiv.org/abs/2007.02686 (One of my favorite papers ever)
 - The Road to Everywhere: Evolution, Complexity and Progress in Natural and Artificial Systems : https://etheses.bham.ac.uk//id/eprint/148/1/Miconi08PhD.pdf
