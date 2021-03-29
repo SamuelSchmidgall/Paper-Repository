@@ -1,7 +1,8 @@
 Here is a list of papers that were influential in my research development based on each year. Not a comprehensive list, just some that I really liked.
 
 # 2021 
-
+- Von Neumann's Self-Reproducing Automata (IP, but still good): https://fab.cba.mit.edu/classes/865.18/replication/Burks.pdf
+- Computer Viruses as Artificial Life: https://spaf.cerias.purdue.edu/tech-reps/985.pdf
 - Evolving Reinforcement Learning Algorithms: https://openreview.net/pdf?id=0XXpJ4OtjW
 - Evolving the Behavior of Machines: From Micro to Macroevolution: https://www.sciencedirect.com/science/article/pii/S2589004220309287
 - Scalable training of artificial neural networks with adaptive sparse connectivity inspired by network science https://www.nature.com/articles/s41467-018-04316-3?fbclid=IwAR2Q-t4B23NCAjiM8y1ehyAV5cgP_NPMG6zo-8YDLR9OLQMu1TzW_AyIyvQ
