@@ -1,6 +1,7 @@
 Here is a list of papers that were influential in my research development based on each year. Not a comprehensive list, just some that I really liked.
 
 # 2021 
+- (Shameless self-promotion) Self-Constructing Neural Networks Through Random Mutation: https://arxiv.org/abs/2103.15692v1
 - Von Neumann's Self-Reproducing Automata (IP, but still good): https://fab.cba.mit.edu/classes/865.18/replication/Burks.pdf
 - Computer Viruses as Artificial Life: https://spaf.cerias.purdue.edu/tech-reps/985.pdf
 - Evolving Reinforcement Learning Algorithms: https://openreview.net/pdf?id=0XXpJ4OtjW
