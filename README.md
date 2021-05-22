@@ -1,6 +1,7 @@
 Here is a list of papers that were influential in my research development based on each year. Not a comprehensive list, just some that I really liked.
 
 # 2021 
+- Is defining life pointless? https://philpapers.org/archive/BICIDL.pdf
 - Understanding Human Intelligence through Human Limitations https://www.sciencedirect.com/science/article/pii/S1364661320302151
 - several ICLR papers, will add later
 - Requirements for Open-Ended Evolution in Natural and Artificial Systems https://www.tim-taylor.com/papers/taylor2015requirements.pdf
