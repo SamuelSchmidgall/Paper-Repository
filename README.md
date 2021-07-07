@@ -1,6 +1,9 @@
 Here is a list of papers that were influential in my research development based on each year. Not a comprehensive list, just some that I really liked.
 
 # 2021 
+- Neuro-Evolution of Spiking Neural Networks on SpiNNaker Neuromorphic Hardware: http://vigir.missouri.edu/~gdesouza/Research/Conference_CDs/IEEE_SSCI_2016/pdf/SSCI16_paper_607.pdf
+- An Evolutionary Optimization Framework for Neural Networks and Neuromorphic Architectures: http://neuromorphic.eecs.utk.edu/pdfs/2016-IJCNN-Schuman.pdf
+- Evolutionary Optimization for Neuromorphic Systems: https://www.osti.gov/servlets/purl/1649325
 - Is defining life pointless? https://philpapers.org/archive/BICIDL.pdf
 - Understanding Human Intelligence through Human Limitations https://www.sciencedirect.com/science/article/pii/S1364661320302151
 - several ICLR papers, will add later
