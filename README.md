@@ -1,6 +1,10 @@
 Here is a list of papers that were influential in my research development based on each year. Not a comprehensive list, just some that I really liked.
 
 # 2021 
+- Reservoir computing approaches to recurrent neural network training https://doi.org/10.1016/j.cosrev.2009.03.005
+- THE GENERAL AND LOGICAL THEORY OF AUTOMATA http://physics.bu.edu/~pankajm/PY571/HixonsymposiumVonNeumaan.pdf
+- Neural Network Quine https://arxiv.org/pdf/1803.05859.pdf
+- Computer Viruses - Theory and Experiments https://web.eecs.umich.edu/~aprakash/eecs588/handouts/cohen-viruses.html/textbf
 - Genome complexity, robustness and genetic interactions in digital organisms: https://www.nature.com/articles/23245
 - The evolutionary origin of complex features: https://www.nature.com/articles/nature01568
 - Neuro-Evolution of Spiking Neural Networks on SpiNNaker Neuromorphic Hardware: http://vigir.missouri.edu/~gdesouza/Research/Conference_CDs/IEEE_SSCI_2016/pdf/SSCI16_paper_607.pdf
