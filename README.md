@@ -1,6 +1,7 @@
 Here is a list of papers that were influential in my research development based on each year. Not a comprehensive list, just some that I really liked.
 
 # 2021 
+- Evolution, Ecology and Optimization of Digital Organisms https://www.cc.gatech.edu/~turk/bio_sim/articles/tierra_thomas_ray.pdf
 - Reservoir computing approaches to recurrent neural network training https://doi.org/10.1016/j.cosrev.2009.03.005
 - THE GENERAL AND LOGICAL THEORY OF AUTOMATA http://physics.bu.edu/~pankajm/PY571/HixonsymposiumVonNeumaan.pdf
 - Neural Network Quine https://arxiv.org/pdf/1803.05859.pdf
