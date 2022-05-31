@@ -1,5 +1,7 @@
 Here is a list of papers that were influential in my research development based on each year. Not a comprehensive list, just some that I really liked.
 
+Current State and Future Directions for Learning in Biological Recurrent Neural Networks: A Perspective Piece: https://nbdt.scholasticahq.com/article/35302.pdf
+
 # 2021 
 - Does evolutionary theory need a rethink?: https://www.researchgate.net/publication/278258990_Does_evolutionary_theory_need_a_rethink_-_COUNTERPOINT_No_all_is_well
 - From evolutionary computation to the evolution of things: https://www.nature.com/articles/nature14544.pdf
