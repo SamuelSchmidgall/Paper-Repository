@@ -1,5 +1,7 @@
 Here is a list of papers that were influential in my research development based on each year. Not a comprehensive list, just some that I really liked.
 
+https://www.nature.com/articles/s41593-021-00809-5.pdf
+https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1004485&type=printable
 Current State and Future Directions for Learning in Biological Recurrent Neural Networks: A Perspective Piece: https://nbdt.scholasticahq.com/article/35302.pdf
 
 # 2021 
