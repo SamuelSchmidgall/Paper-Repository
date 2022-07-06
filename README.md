@@ -1,5 +1,7 @@
 Here is a list of papers that were influential in my research development based on each year. Not a comprehensive list, just some that I really liked.
 
+https://arxiv.org/pdf/2206.01338.pdf
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8713766/
 https://www.nature.com/articles/s41583-022-00585-6.pdf
 https://www.nature.com/articles/s41593-021-00809-5.pdf
 https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1004485&type=printable
